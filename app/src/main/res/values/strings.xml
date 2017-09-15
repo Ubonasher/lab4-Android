@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="Y">Y</string>
+    <string name="X">X</string>
+    <string name="Z">Z</string>
+    <string name="S1">Акселерометр</string>
+    <string name="S2">Магнитный сенсор</string>
+    <string name="S3">Приближение</string>
+    <string name="S4">Освещённость</string>
+    <string name="button">Button</string>
+    <string name="textview">0</string>
+    <string name="button1">Button</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
